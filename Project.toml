@@ -1,0 +1,7 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+ExponentialAction = "e24c0720-ea99-47e8-929e-571b494574d3"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NamedTrajectories = "538bc3a1-5ab9-4fc3-b776-35ca1e893e08"
+QuantumCollocation = "0dc23a59-5ffb-49af-b6bd-932a8ae77adf"
