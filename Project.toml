@@ -4,8 +4,9 @@ ExponentialAction = "e24c0720-ea99-47e8-929e-571b494574d3"
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 LineSearches = "d3d80556-e9d4-5f37-9878-2ab0fcc64255"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-NamedTrajectories = "538bc3a1-5ab9-4fc3-b776-35ca1e893e08"
 Optim = "429524aa-4258-5aef-a3af-852621145aeb"
-QuantumCollocation = "0dc23a59-5ffb-49af-b6bd-932a8ae77adf"
+Piccolo = "c4671d76-df94-11ed-2057-43d4fd632fad"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
-TrajectoryIndexingUtils = "6dad8b7f-dd9a-4c28-9b70-85b9a079bfc8"
+
+[compat]
+Piccolo = "^0.2.0"
